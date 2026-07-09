@@ -1,6 +1,6 @@
 
+<img width="1600" height="806" alt="wokwi-simulation" src="https://github.com/user-attachments/assets/9c5f3cc0-06ca-4cda-91f3-5d82fb3b4688" />
 
-<img width="1079" height="790" alt="electrode-trial-photos" src="https://github.com/user-attachments/assets/008debd5-b977-48fe-806f-2c566b779ca9" />
 <div align="center">
 
 <!-- animated typing title -->
@@ -145,7 +145,8 @@ Four parallel data fields stream continuously from the patch to the cloud — ra
 </div>
 
 <br/>
-<img width="1600" height="806" alt="wokwi-simulation" src="https://github.com/user-attachments/assets/9c5f3cc0-06ca-4cda-91f3-5d82fb3b4688" />
+<img width="1079" height="790" alt="electrode-trial-photos" src="https://github.com/user-attachments/assets/008debd5-b977-48fe-806f-2c566b779ca9" />
+
 <img width="1079" height="774" alt="thingspeak-live-charts" src="https://github.com/user-attachments/assets/ede4c4f0-3e04-4e0c-8a79-611e1bc19e87" />
 
 ## 🧪 Signal Pipeline (Software Core)
