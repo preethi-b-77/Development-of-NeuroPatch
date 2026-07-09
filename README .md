@@ -1,4 +1,4 @@
-<img width="1196" height="1600" alt="hardware-dashboard-demo" src="https://github.com/user-attachments/assets/3b6e771d-cd16-44da-9934-cb2e5517a80c" />
+
 
 <img width="1079" height="790" alt="electrode-trial-photos" src="https://github.com/user-attachments/assets/008debd5-b977-48fe-806f-2c566b779ca9" />
 <div align="center">
